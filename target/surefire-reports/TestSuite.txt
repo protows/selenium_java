@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 3, Time elapsed: 1.382 sec <<< FAILURE! - in TestSuite
+beforeClass(tests.NewTest)  Time elapsed: 0.917 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at tests.NewTest.beforeClass(NewTest.java:17)
+
+beforeClass(tests.NewTest)  Time elapsed: 0.92 sec  <<< FAILURE!
+java.lang.NullPointerException: null
+	at tests.NewTest.beforeClass(NewTest.java:17)
+
